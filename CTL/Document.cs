@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 namespace CTL
 {
     public class Document
-    {
+    { 
         public int[] Words;
         public int Length;
         public int[] Authors;
